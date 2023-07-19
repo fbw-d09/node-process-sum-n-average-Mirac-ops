@@ -1,6 +1,6 @@
 # Summe N' Durchschnitt
 
-Erstelle ein Programm, das eine auszuführende Operation ("sum" oder "avg") und eine Reihe von Zahlen als Argumente annimmt. Das Programm soll das Ergebnis der Berechnung auf dem Terminal ausgeben.
+Erstelle ein Programm, das eine auszuführende Operation ("sum" oder "avg") und eine Reihe von Zahlen als Argumente annimmt. Das Programm soll das Ergebnis der Berechnung auf dem Terminal ausgeben. 
 
 ## Beschränkungen:
 
